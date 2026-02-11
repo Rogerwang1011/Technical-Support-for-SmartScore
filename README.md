@@ -19,12 +19,12 @@ You can contact us regarding:
 	•	Bug reports or feature suggestions
 
 Privacy
-SmartScore does not require user accounts and does not collect personal data.
+PaperWave does not require user accounts and does not collect personal data.
 You can read our full Privacy Policy here: 👉 https://github.com/Rogerwang1011/Privacy-Policy-for-PaverWave
 
 Feedback
 We value feedback from musicians.
-If you have suggestions to improve SmartScore, feel free to reach out — your input helps shape future updates.
+If you have suggestions to improve PaperWave, feel free to reach out — your input helps shape future updates.
 
 
 © PaperWave  Roger
