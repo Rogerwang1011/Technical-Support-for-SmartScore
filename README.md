@@ -1,7 +1,7 @@
-SmartScore Support
+PaperWave Support
 
-Thank you for using SmartScore.
-SmartScore is designed to help musicians read, practice, and perform sheet music more efficiently.
+Thank you for using PaperWave.
+PaperWave is designed to help musicians read, practice, and perform sheet music more efficiently.
 If you have any questions, issues, or feedback, we’re here to help.
 
 Contact Support
@@ -27,4 +27,4 @@ We value feedback from musicians.
 If you have suggestions to improve SmartScore, feel free to reach out — your input helps shape future updates.
 
 
-© SmartScore  Roger
+© PaperWave  Roger
